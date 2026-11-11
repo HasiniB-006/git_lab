@@ -1,4 +1,8 @@
 Work in Progess
 Im in CS-DS 3RD sem
 gcem
+<<<<<<< HEAD
 gopalan college
+=======
+I am in DS
+>>>>>>> 30c9137 (first)
